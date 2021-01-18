@@ -40,12 +40,9 @@ If you use functions from this script in your work, please use the BibTex entry 
 
 ```
 @INPROCEEDINGS{8827144,
-    author={F. {Lopez-Tiro} and H. {Peregrina-Barreto} and J.   
-    {Rangel-Magdaleno} and J. C. {Ramirez-San-Juan}},
-    booktitle={2019 IEEE International Instrumentation and 
-    Measurement Technology Conference (I2MTC)}, 
-    title={Visualization of in-vitro Blood Vessels in Contrast 
-    Images Based on Discrete Wavelet Transform Decomposition}, 
+    author={F. {Lopez-Tiro} and H. {Peregrina-Barreto} and J. {Rangel-Magdaleno} and J. C. {Ramirez-San-Juan}},
+    booktitle={2019 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)}, 
+    title={Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition}, 
     year={2019},
     volume={},
     number={},
