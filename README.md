@@ -3,6 +3,7 @@
 This repository has the functions to implement the methods described in the conference article: 
 [*"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition"*](https://ieeexplore.ieee.org/abstract/document/8827144), developed as part of the project *"Visualization and localization of blood vessels"* at [INAOE](https://www.inaoep.mx). 
 
+## Abstract 
 
 Visualization of blood vessels in speckle images is an important task as it is used to analyze the dynamics of the blood flow and the health status of biological tissue. However, this task becomes difficult due to the noise in the image, mainly at high depths. This work proposes a methodology based on the Discrete Wavelet Transform to improve *in-vitro* blood vessels visualization.
 
