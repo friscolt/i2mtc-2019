@@ -9,14 +9,14 @@ Visualization of blood vessels in speckle images is an important task as it is u
 
 ## Contents
 
-* `i2mtc2019.pdf` - PDF file. Conference article *"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition".* 
+* [`i2mtc2019.pdf`](https://github.com/friscolt/i2mtc-2019/blob/master/i2mtc-2019.pdf) - Pre-print pdf file. Conference article *"Visualization of in-vitro Blood Vessels in Contrast Images Based on Discrete Wavelet Transform Decomposition".* 
 
-* `f_i2mtc2019.m` -  Matlab script. The script  `f_i2mtc2019.m` contains 1 main function (`f_i2mtc2019`) and four auxiliary functions ( `f_sk`, `f_denoising`, `f_binarize`, `f_mapping`) to implement the methods described in the conference paper (`i2mtc2019.pdf`). 
+* [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) -  Matlab script. The script  `f_i2mtc2019.m` contains 1 main function (`f_i2mtc2019`) and four auxiliary functions (`f_sk`, `f_denoising`, `f_binarize`, `f_mapping`) to implement the methods described in the conference paper ([`i2mtc2019.pdf`](https://github.com/friscolt/i2mtc-2019/blob/master/i2mtc-2019.pdf)). 
 
-* `data.mat` - MAT file. It contains an *in-vitro* speckle image of a bifurcated blood vessel at a depth of 300 µm. The image is stored as a variable with the name 'img' and is an array of 288x280 pixels in grayscale. 
+* [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat) - MAT file. It contains an *in-vitro* speckle image of a bifurcated blood vessel at a depth of 300 µm. The image is stored as a variable with the name 'img' and is an array of 288x280 pixels in grayscale. 
 
 
-* `main.mlx` - Matlab live script. It contains an example of the image processing available in `'data.mat'`. This live script describes step by step the use of the auxiliary functions described in `f_i2mtc2019.m` 
+* [`main.mlx`](https://github.com/friscolt/i2mtc-2019/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) 
 
 
 ## Organization
@@ -37,7 +37,7 @@ Please email us your comments, criticism, and questions at `francisco.lopez@inao
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[IEEE's paper]](https://ieeexplore.ieee.org/abstract/document/8827144)
+[[IEEE's paper]](https://ieeexplore.ieee.org/document/8827144)
 
 ```
 @INPROCEEDINGS{8827144,
