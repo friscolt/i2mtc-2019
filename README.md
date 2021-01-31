@@ -7,9 +7,9 @@ This repository has the functions to implement the methods described in the conf
 
 Visualization of blood vessels in speckle images is an important task as it is used to analyze the dynamics of the blood flow and the health status of biological tissue. However, this task becomes difficult due to the noise in the image, mainly at high depths. This work proposes a methodology based on the Discrete Wavelet Transform to improve *in-vitro* blood vessels visualization.
 
-[Paper](https://ieeexplore.ieee.org/document/8827144)
-[Preprint](https://www.researchgate.net/publication/333616680_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
-[Poster](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
+[[Paper]](https://ieeexplore.ieee.org/document/8827144)
+[[Preprint]](https://www.researchgate.net/publication/333616680_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
+[[Poster]](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
 
 
 
