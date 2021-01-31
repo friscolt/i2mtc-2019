@@ -15,7 +15,7 @@ Visualization of blood vessels in speckle images is an important task as it is u
 
 ## Contents
 
-* [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) -  Matlab script. The script  `f_i2mtc2019.m` contains 1 main function (`f_i2mtc2019`) and four auxiliary functions (`f_sk`, `f_denoising`, `f_binarize`, `f_mapping`) to implement the methods described in the [paper](https://ieeexplore.ieee.org/document/8827144). 
+* [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) -  Matlab script. The script  `f_i2mtc2019.m` contains 1 main function (`f_i2mtc2019`) and four auxiliary functions (`f_sk`, `f_denoising`, `f_binarize`, `f_mapping`) to implement the methods described in [this paper](https://ieeexplore.ieee.org/document/8827144). 
 
 * [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat) - MAT file. It contains an *in-vitro* speckle image of a bifurcated blood vessel at a depth of 300 µm. The image is stored as a variable with the name 'img' and is an array of 288x280 pixels in grayscale. 
 
@@ -34,14 +34,13 @@ Code for algorithms, applications and tools contributed by:
 
 F. Lopez-Tiro, H. Peregrina-Barreto, J. Rangel-Magdaleno, J. C. Ramirez-San-Juan
 
-Please email us your comments, criticism, and questions at `francisco.lopez@inaoe.mx`
-
+Please email us your comments, criticism, and questions at [`francisco.lopez@inaoe.mx`](mailto:francisco.lopez@inaoe.com?subject=[GitHub]%20i2mtc2019%20repository)
 
 ## Reference
 
 If you use functions from this script in your work, please use the BibTex entry below for citation.
 
-[[IEEE's paper]](https://ieeexplore.ieee.org/document/8827144)
+[[Paper]](https://ieeexplore.ieee.org/document/8827144)
 
 ```
 @INPROCEEDINGS{8827144,
