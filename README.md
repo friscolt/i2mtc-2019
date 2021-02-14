@@ -18,7 +18,6 @@ Visualization of blood vessels in speckle images is an important task as it is u
 
 * [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat) - MAT file. It contains an *in-vitro* speckle image of a bifurcated blood vessel at a depth of 300 µm. The image is stored as a variable with the name 'img' and is an array of 288x280 pixels in grayscale. 
 
-
 * [`main.mlx`](https://github.com/friscolt/i2mtc-2019/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) 
 
 
