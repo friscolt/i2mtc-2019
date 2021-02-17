@@ -8,7 +8,6 @@ This repository has the functions to implement the methods described in the conf
 Visualization of blood vessels in speckle images is an important task as it is used to analyze the dynamics of the blood flow and the health status of biological tissue. However, this task becomes difficult due to the noise in the image, mainly at high depths. This work proposes a methodology based on the Discrete Wavelet Transform to improve *in-vitro* blood vessels visualization.
 
 [[Paper]](https://ieeexplore.ieee.org/document/8827144)
-[[Preprint]](https://www.researchgate.net/publication/333616680_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
 [[Poster]](https://www.researchgate.net/publication/333146308_Visualization_of_in-vitro_Blood_Vessels_in_Contrast_Images_Based_on_Discrete_Wavelet_Transform_Decomposition)
 
 
@@ -19,8 +18,12 @@ Visualization of blood vessels in speckle images is an important task as it is u
 
 * [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat) - MAT file. It contains an *in-vitro* speckle image of a bifurcated blood vessel at a depth of 300 µm. The image is stored as a variable with the name 'img' and is an array of 288x280 pixels in grayscale. 
 
+<<<<<<< HEAD
 
 * [`demo.mlx`](https://github.com/friscolt/i2mtc-2019/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) 
+=======
+* [`main.mlx`](https://github.com/friscolt/i2mtc-2019/blob/master/main.mlx) - Matlab live script. It contains an example of the image processing available in [`data.mat`](https://github.com/friscolt/i2mtc-2019/blob/master/data.mat). This live script describes step by step the use of the auxiliary functions described in [`f_i2mtc2019.m`](https://github.com/friscolt/i2mtc-2019/blob/master/f_i2mtc2019.m) 
+>>>>>>> master
 
 
 ## Organization
